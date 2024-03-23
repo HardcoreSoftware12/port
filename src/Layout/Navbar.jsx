@@ -32,7 +32,7 @@ function Navbar() {
 
            
         </div>
-        <div className=' w-full h-[300px] hidden lg:block h-[130px]'>
+        <div className=' w-full  hidden lg:block h-[90px]'>
             <div className= "mt-7 mx-auto  w-[70%] flex justify-around content-between  py-5 text-white bg-opacity-40 bg-[#1F2544]  rounded-3xl invisible lg:visible text-2xl">
                 <a href="/" className='hover:text-black' >&lt; Home <span>/</span> &gt; </a>
                 <a href="#edu" className='hover:text-black ' >&lt; Education <span>/</span> &gt; </a>
