@@ -42,7 +42,7 @@ function Navbar() {
             </div>
 
         </div>
-        <div className={` mt-${hamBurger ?'[5%]':'[20%]'} lg:mt-0` }>    
+        <div className={`mt-20 lg:mt-0` }>    
             <Home/>
         </div>
 
